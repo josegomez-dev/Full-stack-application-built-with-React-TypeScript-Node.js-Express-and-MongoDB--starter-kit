@@ -167,8 +167,3 @@ Development Tools
 Version Control
 * Git: Distributed version control system.
 * GitHub: Web-based platform for hosting and collaborating on code.
-
-Continuous Integration/Continuous Deployment (CI/CD)
-* GitHub Actions: Automates workflows directly from the GitHub repository.
-* Jenkins: Open-source automation server.
-* Travis CI: CI service for building and testing software projects.
